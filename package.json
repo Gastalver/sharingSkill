@@ -1,0 +1,23 @@
+{
+  "name": "sharingskill",
+  "version": "1.0.0",
+  "description": "Ejercicio Eloquent",
+  "main": "ftpServer.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ecstatic": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gastalver/sharingSkill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gastalver/sharingSkill/issues"
+  },
+  "homepage": "https://github.com/Gastalver/sharingSkill#readme"
+}

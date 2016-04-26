@@ -1,9 +1,9 @@
+//noinspection JSLint,JSLint,JSLint
 /**
  * Created by Miguel on 26/04/16.
  */
 
-// toDo: Comentar cada linea de código explicándola por completo.
-
+//Declaración de un módulo de Node.js para exportar el objeto Router, con una propiedad que almacena las rutas.
 var Router = module.exports = function () {
     'use strict';
     this.routes = [];
